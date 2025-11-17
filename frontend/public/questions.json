@@ -552,6 +552,14 @@
     "type": "short-answer"
   },
   {
+    "id": "ch8-17",
+    "chapter": 8,
+    "chapterTitle": "Cybersecurity Oops Systems Do Get Hacked",
+    "question": "What are three (3) different kinds of malware?",
+    "answer": "Viruses, Worms, Trojans (Trojan Horses), Ransomware, Spyware, Adware, Keyloggers, Rootkits, Botnets, Fileless Malware, Scareware, Cryptojackers, Logic Bombs, Backdoors, Remote Access Trojans (RATs)",
+    "type": "short-answer"
+  },
+  {
     "id": "ch9-1",
     "chapter": 9,
     "chapterTitle": "People How Systems Shape Society",
